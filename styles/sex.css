@@ -12,7 +12,7 @@ div>h3 {
     text-align: center;
     font-size: 40px;
     font-family: 'Anton', sans-serif;
-
+    letter-spacing: 10px;
 }
 
 div>p {
@@ -22,6 +22,9 @@ div>p {
     border-radius: 20px 5px;
     box-shadow: 5px 5px 30px 5px rgba(91, 14, 60, 0.826);
     font-weight: 600;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    line-height: 25px;
 }
 
 #pos {
@@ -33,6 +36,7 @@ div>p {
     border-radius: 20px 5px;
     box-shadow: 5px 5px 30px 5px rgba(93, 62, 25, 0.826);
     font-weight: 600;
+    letter-spacing: 1px;
 }
 
 li {
@@ -47,6 +51,4 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-
-
 }
